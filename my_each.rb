@@ -11,9 +11,6 @@ end
 
 my_each(list) {|i| "So I think #{i} is wasting my time."}
 
-# Use the collection method 
-# To make the *return-value* the answer you want
-# instead of "=> nil"
 
 def hello(array)
   i = 0
